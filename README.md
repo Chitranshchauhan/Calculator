@@ -1,9 +1,6 @@
 # 🧮 Calculator App
 
-A modern and responsive Calculator built using **HTML, CSS, and JavaScript**.
-
-## 🚀 Live Demo
-(Add your GitHub Pages link here after deployment)
+A modern and responsive Calculator built using **HTML, CSS, and JavaScript
 
 ## ✨ Features
 
