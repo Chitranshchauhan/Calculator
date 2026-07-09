@@ -40,6 +40,7 @@ Calculator/
 **Chitransh Chauhan**
 
 - GitHub: https://github.com/Chitranshchauhan
+- live Project Link: https://chitranshchauhan.github.io/Calculator/
 - LinkedIn: https://www.linkedin.com/in/chitransh-chauhan-97307137a/
 
 ⭐ If you like this project, don't forget to star the repository!
