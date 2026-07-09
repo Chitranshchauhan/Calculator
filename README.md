@@ -1,17 +1,20 @@
-# 📝 To-Do List App
+# 🧮 Calculator App
 
-A modern and responsive To-Do List application built using HTML, CSS and JavaScript.
+A modern and responsive Calculator built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Live Demo
-(Add GitHub Pages link here after deployment)
+(Add your GitHub Pages link here after deployment)
 
 ## ✨ Features
 
-- ✅ Add New Tasks
-- ✅ Delete Tasks
-- ✅ Mark Tasks as Completed
-- ✅ Responsive Design
-- ✅ Clean and Modern UI
+- ➕ Addition
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🗑️ Clear (C) Button
+- ⌫ Backspace Button
+- 📱 Responsive Design
+- 🎨 Modern UI
 
 ## 🛠️ Technologies Used
 
@@ -22,11 +25,15 @@ A modern and responsive To-Do List application built using HTML, CSS and JavaScr
 ## 📂 Project Structure
 
 ```
-ToDo-App/
+Calculator/
 │── index.html
 │── style.css
 │── script.js
 ```
+
+## 📸 Screenshot
+
+(Add a screenshot of the calculator here later.)
 
 ## 👨‍💻 Author
 
